@@ -1,0 +1,10 @@
+# System skills & IDE
+skills/
+.vscode/
+.idea/
+*.swp
+*.bak
+
+# Temporary / build objects
+*.o
+*.obj
