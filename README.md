@@ -51,7 +51,7 @@ Reverse-engineered from the decompiled N64 game logic:
 
 ## Binaries Included
 
-* `tnt_seed_inspector.exe`: Standalone Windows GUI executable (zero external DLL dependencies, runs natively on Windows and under Wine on Linux).
+* `tnt_seed_inspector.exe`: Standalone Windows GUI executable (download from the [Releases](https://github.com/depressobbq/tnt_seed_inspector/releases) page) (zero external DLL dependencies, runs natively on Windows and under Wine on Linux).
 * `tnt_seed_tool`: Fast native Linux CLI executable for terminal usage.
 
 ---

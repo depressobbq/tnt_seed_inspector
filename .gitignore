@@ -5,6 +5,8 @@ skills/
 *.swp
 *.bak
 
-# Temporary / build objects
+# Build binaries & executables (attach to GitHub Releases)
+*.exe
+tnt_seed_tool
 *.o
 *.obj
